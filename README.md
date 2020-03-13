@@ -1,5 +1,5 @@
 # cve2020-0796
-Its name is forecasted as SMBGHOST
+It's name is forecasted as SMBGHOST
 
 Microsoft SMV3.1.1 wormable Exploit
 
