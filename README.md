@@ -9,7 +9,7 @@ Info and Update:-
 
 Microsoft Info:-
 
-                  https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796
+      https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796
 
 How to patch the bug:
 
@@ -19,7 +19,7 @@ Go and download kb4551762 from link below
 
 
 More Info:-
-                 https://support.microsoft.com/en-us/help/4551762/windows-10-update-kb4551762
+      https://support.microsoft.com/en-us/help/4551762/windows-10-update-kb4551762
 
 
 Some of the already available Github Repositories
