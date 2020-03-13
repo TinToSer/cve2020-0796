@@ -5,7 +5,7 @@ Microsoft SMV3.1.1 wormable Exploit
 
 Info and Update:-
 
-https://twitter.com/malwrhunterteam/status/1237480108568477697
+      https://twitter.com/malwrhunterteam/status/1237480108568477697
 
 Microsoft Info:-
 
@@ -15,11 +15,11 @@ How to patch the bug:
 
 Go and download kb4551762 from link below
 
- https://www.catalog.update.microsoft.com/Search.aspx?q=KB4551762
+      https://www.catalog.update.microsoft.com/Search.aspx?q=KB4551762
 
 
 More Info:-
-                https://support.microsoft.com/en-us/help/4551762/windows-10-update-kb4551762
+                 https://support.microsoft.com/en-us/help/4551762/windows-10-update-kb4551762
 
 
 Some of the already available Github Repositories
