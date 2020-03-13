@@ -3,6 +3,9 @@ It's name is forecasted as SMBGHOST
 
 Microsoft SMV3.1.1 wormable Exploit
 
+First of all check your windows version by typing "winver" in Windows search box and check your version.
+If it is 1903 or 1909 then you should go for patching the bug
+
 Info and Update:-
 
       https://twitter.com/malwrhunterteam/status/1237480108568477697
@@ -22,7 +25,7 @@ More Info:-
       https://support.microsoft.com/en-us/help/4551762/windows-10-update-kb4551762
 
 
-Some of the already available Github Repositories
+Some of the already available Github Repositories for geeks and hackers
 
       https://github.com/cve-2020-0796/cve-2020-0796
       https://github.com/Aekras1a/CVE-2020-0796-PoC
