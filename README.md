@@ -4,14 +4,18 @@ Its name is forecasted as SMBGHOST
 Microsoft SMV3.1.1 wormable Exploit
 
 Info and Update:-
+
 https://twitter.com/malwrhunterteam/status/1237480108568477697
 
 Microsoft Info:-
+
                   https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796
 
 How to patch the bug:
+
 Go and download kb4551762 from link below
-              https://www.catalog.update.microsoft.com/Search.aspx?q=KB4551762
+
+ https://www.catalog.update.microsoft.com/Search.aspx?q=KB4551762
 
 
 More Info:-
