@@ -24,10 +24,10 @@ More Info:-
 
 Some of the already available Github Repositories
 
-https://github.com/cve-2020-0796/cve-2020-0796
-https://github.com/Aekras1a/CVE-2020-0796-PoC
-https://github.com/ollypwn/SMBGhost
-https://github.com/0xtobu/CVE-2020-0796
+      https://github.com/cve-2020-0796/cve-2020-0796
+      https://github.com/Aekras1a/CVE-2020-0796-PoC
+      https://github.com/ollypwn/SMBGhost
+      https://github.com/0xtobu/CVE-2020-0796
 
 
 
